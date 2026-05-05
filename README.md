@@ -1,4 +1,4 @@
-~Real time personalized distraction alert system~
+= Real time personalized distraction alert system =
 
 1. Src - Includes core python scripts :
      Model Selection, Data Log, Preprocessing Script, Feature Permutation Importance, Model Training Script

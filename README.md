@@ -1,4 +1,5 @@
-= Real time personalized distraction alert system =
+Real time personalized distraction alert system
+-------------------------------------------------
 
 This alert system logs on device interaction data locally and predicts the focus state of the user, alerting when they are distracted.
 

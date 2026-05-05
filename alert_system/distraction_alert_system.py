@@ -5,10 +5,10 @@ import pandas as pd
 import numpy as np
 
 
-from src.alert_live_data_logger import events,start_logging_data
+from alert_live_data_logger import events,start_logging_data
 
 window = 120
-model = joblib.load('../tuned_model.pkl')
+model = joblib.load('../model/tuned_model.pkl')
 
 min_events = 150
 
